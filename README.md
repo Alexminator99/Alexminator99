@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A seasoned Mobile Developer with over 7 years of experience crafting innovative and high-quality mobile applications. My journey in tech began with a passion for solving complex problems and has evolved into a career dedicated to creating seamless user experiences on Android and iOS platforms.</h3>
 
-- 🔭 I’m currently working on [EtherMail](ethermail.io)
+- 🔭 I’m currently working on [Aloware](aloware.com)
 
 - 🌱 I’m currently learning **Advanced Jetpack Compose**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Kotlin, Compose, Clean Architecture**
 
-- 📫 How to reach me **alexminator9999@gmail.com**
+- 📫 How to reach me **alexminator.eth@ethermail.io**
 
 - ⚡ Fun fact **Love Football**
 

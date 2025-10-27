@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Mobile+Engineer+%40+SIROC;7%2B+Years+of+Mobile+Excellence;Native+Android+%26+iOS+Specialist;Kotlin+%7C+Swift+%7C+Jetpack+Compose;Clean+Architecture+Advocate;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Mobile+Engineer+%40+SIROC;9%2B+Years+of+Mobile+Excellence;Native+Android+%26+iOS+Specialist;Kotlin+%7C+Swift+%7C+Jetpack+Compose;Clean+%26+MVI+Architecture+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B_Years-brightgreen?style=flat-square&logo=calendar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Mobile_Development-blue?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Architecture-Clean_&_MVVM-orange?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-9%2B_Years-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-5%2B_Years-000000?style=flat-square&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Architecture-Clean_&_MVI-orange?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=flat-square&logo=handshake&logoColor=white"/>
 </p>
 
@@ -29,7 +29,8 @@ data class MobileEngineer(
     val role: String = "Senior Mobile Engineer",
     val company: String = "SIROC",
     val location: String = "United States",
-    val experience: Int = 7,
+    val androidExperience: Int = 9,
+    val iOSExperience: Int = 5,
     val email: String = "alexminator.eth@ethermail.io",
     val portfolio: String = "https://xela-dev-mobile.com",
     val expertise: List<String> = listOf(
@@ -38,7 +39,7 @@ data class MobileEngineer(
         "Jetpack Compose",
         "SwiftUI",
         "Clean Architecture",
-        "MVVM & MVI",
+        "MVI Pattern",
         "Kotlin Multiplatform",
         "CI/CD Pipelines"
     ),
@@ -77,11 +78,11 @@ data class MobileEngineer(
 <td width="50%">
 
 ### 📈 Career Highlights
-- ✅ **7+ years** in mobile development
-- ✅ **15+ apps** published to production
-- ✅ **1M+ downloads** across projects
+- ✅ **9+ years** in Android development
+- ✅ **5+ years** in iOS development
 - ✅ **Expert** in Kotlin & Swift
-- ✅ **Specialized** in Clean Architecture
+- ✅ **Specialized** in Clean Architecture & MVI
+- ✅ **Led teams** on enterprise mobile projects
 - ✅ **Proficient** in CI/CD automation
 
 </td>
@@ -95,18 +96,10 @@ data class MobileEngineer(
 - 🔭 Currently working at **[SIROC](https://siroc.com)** on cutting-edge mobile solutions
 - 🌱 Deep diving into **Advanced Jetpack Compose**, **Kotlin Multiplatform**, and **SwiftUI**
 - 👯 Looking to collaborate on **innovative mobile projects** and **open-source initiatives**
-- 💬 Ask me about **Kotlin, Swift, Jetpack Compose, Clean Architecture, MVVM, MVI, mobile performance optimization**
+- 💬 Ask me about **Kotlin, Swift, Jetpack Compose, Clean Architecture, MVI, mobile performance optimization**
 - 📫 Reach me at **alexminator.eth@ethermail.io**
 - ⚡ Fun fact: **Passionate football fan and tech enthusiast**
 - 🎮 Side interests: **IoT with Arduino, Cloud Architecture (AWS & GCP)**
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexminator99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -236,13 +229,13 @@ data class MobileEngineer(
 
 ---
 
-## 🎖️ Certifications & Achievements
+## 🎖️ Experience & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android_Development-7+_Years-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Development-9+_Years-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS_Development-5+_Years-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Production_Apps-15+-4285F4?style=for-the-badge&logo=google-play&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Downloads-1M+-00C853?style=for-the-badge&logo=download&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Expert-00897B?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVI_Pattern-Expert-00796B?style=for-the-badge&logo=buffer&logoColor=white" />
 </p>
 
 ---
@@ -253,25 +246,44 @@ data class MobileEngineer(
 <tr>
 <td width="50%">
 
-### 🔥 Recent Work
-- **Enterprise Mobile Solutions @ SIROC**
-  - Native Android & iOS applications
-  - Advanced architecture implementation
-  - Performance optimization & scaling
-
-- **Clean Architecture Templates**
-  - Kotlin & Swift boilerplates
-  - Best practices showcase
-  - Community contributions
+### 🔥 Current Work
+**Enterprise Mobile Solutions @ [SIROC](https://siroc.com)**
+- Native Android & iOS applications
+- Advanced architecture implementation
+- Performance optimization & scaling
+- Team leadership & code reviews
 
 </td>
 <td width="50%">
 
-### 🌟 Open Source
+### 🌟 Notable Projects
+**[EtherMail](https://ethermail.io) - Team Lead**
+- Led mobile development team for innovative Web3 email platform
+- Architected and implemented native Android & iOS applications
+- Integrated blockchain technology with traditional mobile frameworks
+- Delivered seamless UX for crypto-native communication
+- Implemented Clean Architecture & MVI patterns
+- Built custom UI components and complex animations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 Contributions
 - Contributing to mobile development community
 - Technical blog articles & tutorials
 - Code reviews & mentorship
 - Architecture pattern demonstrations
+
+</td>
+<td width="50%">
+
+### 🎯 Expertise Showcase
+- Clean Architecture Templates (Kotlin & Swift)
+- MVI pattern implementations
+- Jetpack Compose best practices
+- CI/CD pipeline configurations
 
 **Portfolio:** [xela-dev-mobile.com](https://xela-dev-mobile.com)
 

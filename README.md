@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Mobile+Engineer+%40+SIROC;9%2B+Years+of+Mobile+Excellence;Native+Android+%26+iOS+Specialist;Kotlin+%7C+Swift+%7C+Jetpack+Compose;Clean+%26+MVI+Architecture+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Lead+Mobile+Engineer+%40+MindGuard;9%2B+Years+of+Mobile+Excellence;Native+Android+%26+iOS+Specialist;Kotlin+%7C+Swift+%7C+Compose+%7C+SwiftUI;Kotlin+Multiplatform+in+Production;Clean+%26+MVI+Architecture+Expert;Shipping+My+Own+Apps+Too" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://siroc.com"><img src="https://img.shields.io/badge/SIROC-Senior_Mobile_Engineer-00D9FF?style=for-the-badge&logo=mobile&logoColor=white"/></a>
+  <a href="https://apps.apple.com/us/app/mindguard-mental-resilience/id6770721628"><img src="https://img.shields.io/badge/MindGuard-Lead_Mobile_Engineer-00D9FF?style=for-the-badge&logo=mobile&logoColor=white"/></a>
   <a href="https://xela-dev-mobile.com"><img src="https://img.shields.io/badge/Portfolio-xela--dev--mobile.com-4A90E2?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=alexminator99&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-9%2B_Years-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-5%2B_Years-000000?style=flat-square&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-Production-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Architecture-Clean_&_MVI-orange?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=flat-square&logo=handshake&logoColor=white"/>
 </p>
@@ -25,31 +26,31 @@
 
 ```kotlin
 data class MobileEngineer(
-    val name: String = "Alex Rivas",
-    val role: String = "Senior Mobile Engineer",
-    val company: String = "SIROC",
-    val location: String = "United States",
+    val name: String = "Alex Javier Rivas Martínez",
+    val role: String = "Lead Mobile Engineer",
+    val company: String = "MindGuard Group",
+    val location: String = "Málaga, Spain",
     val androidExperience: Int = 9,
     val iOSExperience: Int = 5,
-    val email: String = "alexminator.eth@ethermail.io",
+    val email: String = "alex@xela-dev-mobile.com",
     val portfolio: String = "https://xela-dev-mobile.com",
     val expertise: List<String> = listOf(
         "Native Android Development",
         "Native iOS Development",
         "Jetpack Compose",
         "SwiftUI",
-        "Clean Architecture",
-        "MVI Pattern",
         "Kotlin Multiplatform",
+        "Clean Architecture & MVI",
+        "Mobile Security & Reverse Engineering",
         "CI/CD Pipelines"
     ),
-    val passion: String = "Crafting seamless mobile experiences that users love ❤️"
+    val passion: String = "Crafting secure, high-quality native apps — and shipping my own ❤️"
 ) {
     fun getCurrentFocus() = listOf(
-        "Advanced Jetpack Compose animations",
-        "Kotlin Multiplatform Mobile (KMM)",
-        "iOS performance optimization",
-        "Modern Android architecture components"
+        "Advanced Jetpack Compose",
+        "Kotlin Multiplatform",
+        "SwiftUI Animations",
+        "iOS Performance"
     )
 
     fun funFact() = "When not coding, you'll find me watching football ⚽"
@@ -65,14 +66,16 @@ data class MobileEngineer(
 <td width="50%">
 
 ### 🏢 Current Position
-**Senior Mobile Engineer @ [SIROC](https://siroc.com)**
-*Leading mobile development initiatives*
+**Lead Mobile Engineer @ MindGuard Group**
+*Mental-health & habit-building app for Ukrainian veterans*
 
-- 🎯 Architecting scalable native mobile solutions
-- 📱 Building high-performance Android & iOS apps
-- 🔧 Implementing cutting-edge mobile technologies
-- 👥 Mentoring junior developers
-- 🚀 Driving technical excellence and best practices
+- 🧠 Cross-platform **Kotlin Multiplatform** app (Android + iOS)
+- 🎨 Native UIs: **Jetpack Compose** (Material 3 Expressive) & **SwiftUI**
+- 🏗️ Multi-modular **Clean Architecture** with **MVI**
+- 🤖 AI-verified exercise recording, real-time chat & buddy matching
+- 💰 Identity verification and a coins-to-payout rewards economy
+
+Also **Android Tech Lead @ Atos** — owning deployments, features, and the team's technical standards.
 
 </td>
 <td width="50%">
@@ -80,10 +83,11 @@ data class MobileEngineer(
 ### 📈 Career Highlights
 - ✅ **9+ years** in Android development
 - ✅ **5+ years** in iOS development
-- ✅ **Expert** in Kotlin & Swift
-- ✅ **Specialized** in Clean Architecture & MVI
-- ✅ **Led teams** on enterprise mobile projects
-- ✅ **Proficient** in CI/CD automation
+- ✅ Shipped for **10+ companies**
+- ✅ **Kotlin Multiplatform** in production
+- ✅ **Led mobile teams** at MindGuard, EtherMail & Aptimyz
+- ✅ **Mobile security & reverse engineering** background
+- ✅ Indie: built & shipped **[Anvil](https://anvilmac.com)**
 
 </td>
 </tr>
@@ -93,12 +97,12 @@ data class MobileEngineer(
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working at **[SIROC](https://siroc.com)** on cutting-edge mobile solutions
-- 🌱 Deep diving into **Advanced Jetpack Compose**, **Kotlin Multiplatform**, and **SwiftUI**
-- 👯 Looking to collaborate on **innovative mobile projects** and **open-source initiatives**
-- 💬 Ask me about **Kotlin, Swift, Jetpack Compose, Clean Architecture, MVI, mobile performance optimization**
-- 📫 Reach me at **alexminator.eth@ethermail.io**
-- ⚡ Fun fact: **Passionate football fan and tech enthusiast**
+- 🔭 Leading mobile at **MindGuard Group** — a Kotlin Multiplatform app that rewards daily physical challenges with real micro-payments
+- 🛠️ Shipping my own apps: **[Anvil](https://anvilmac.com)** — a native developer toolkit for Mac, iPhone & iPad (SwiftUI + TCA)
+- 🌱 Deep diving into **Advanced Jetpack Compose**, **Kotlin Multiplatform**, **SwiftUI animations**, and **iOS performance**
+- 💬 Ask me about **Kotlin, Swift, Compose, SwiftUI, KMP, Clean Architecture, MVI, mobile security**
+- 📫 Reach me at **alex@xela-dev-mobile.com**
+- ⚡ Fun fact: **Passionate football fan ⚽ and tech enthusiast**
 - 🎮 Side interests: **IoT with Arduino, Cloud Architecture (AWS & GCP)**
 
 ---
@@ -132,16 +136,18 @@ data class MobileEngineer(
   <img src="https://img.shields.io/badge/iOS-Expert-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-Expert-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-Advanced-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-Advanced-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-Expert-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-Expert-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ### 🏗️ Architecture & Patterns
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-Expert-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVI-Expert-00796B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVVM-Expert-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVI-Advanced-00796B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-Expert-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-Expert-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modularization-Expert-004D40?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dependency_Injection-Expert-004D40?style=for-the-badge" />
 </p>
 
@@ -149,37 +155,39 @@ data class MobileEngineer(
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a>
-  <img src="https://img.shields.io/badge/Coroutines-Advanced-7F52FF?style=flat" />
-  <img src="https://img.shields.io/badge/Flow-Advanced-7F52FF?style=flat" />
+  <img src="https://img.shields.io/badge/Coroutines-Expert-7F52FF?style=flat" />
+  <img src="https://img.shields.io/badge/Flow-Expert-7F52FF?style=flat" />
+  <img src="https://img.shields.io/badge/Material_3_Expressive-Advanced-4285F4?style=flat" />
   <img src="https://img.shields.io/badge/Room-Expert-4285F4?style=flat" />
+  <img src="https://img.shields.io/badge/SQLDelight-Advanced-03A9F4?style=flat" />
+  <img src="https://img.shields.io/badge/Ktor-Advanced-7F52FF?style=flat" />
   <img src="https://img.shields.io/badge/Retrofit-Expert-48B983?style=flat" />
   <img src="https://img.shields.io/badge/Hilt-Expert-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/Navigation-Advanced-4285F4?style=flat" />
   <img src="https://img.shields.io/badge/WorkManager-Advanced-00C853?style=flat" />
-  <img src="https://img.shields.io/badge/Paging_3-Advanced-4285F4?style=flat" />
 </p>
 
 ### 🍎 Modern iOS Stack
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/></a>
+  <img src="https://img.shields.io/badge/Swift_Concurrency-Advanced-FA7343?style=flat" />
+  <img src="https://img.shields.io/badge/TCA-Advanced-4B32C3?style=flat" />
   <img src="https://img.shields.io/badge/UIKit-Expert-147EFB?style=flat" />
   <img src="https://img.shields.io/badge/Combine-Advanced-FA7343?style=flat" />
   <img src="https://img.shields.io/badge/Core_Data-Advanced-0066CC?style=flat" />
-  <img src="https://img.shields.io/badge/URLSession-Expert-1575F9?style=flat" />
   <img src="https://img.shields.io/badge/XCTest-Advanced-147EFB?style=flat" />
-  <img src="https://img.shields.io/badge/CocoaPods-Advanced-EE3322?style=flat" />
   <img src="https://img.shields.io/badge/SPM-Advanced-FA7343?style=flat" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🔐 Security & Reverse Engineering
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-  <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="45" height="45"/></a>
-  <img src="https://img.shields.io/badge/SQLite-Advanced-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room-Expert-4285F4?style=flat" />
-  <img src="https://img.shields.io/badge/Core_Data-Advanced-0066CC?style=flat" />
-  <img src="https://img.shields.io/badge/SharedPreferences-Expert-3DDC84?style=flat" />
-  <img src="https://img.shields.io/badge/UserDefaults-Expert-147EFB?style=flat" />
+  <img src="https://img.shields.io/badge/IDA_Pro-Advanced-B71C1C?style=flat" />
+  <img src="https://img.shields.io/badge/Ghidra-Advanced-D32F2F?style=flat" />
+  <img src="https://img.shields.io/badge/JADX-Advanced-E53935?style=flat" />
+  <img src="https://img.shields.io/badge/Frida-Advanced-EF5350?style=flat" />
+  <img src="https://img.shields.io/badge/LLDB-Advanced-F44336?style=flat" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Advanced-FF7043?style=flat" />
+  <img src="https://img.shields.io/badge/Static_&_Dynamic_Analysis-Advanced-FF5722?style=flat" />
 </p>
 
 ### ☁️ Cloud & Backend
@@ -188,7 +196,9 @@ data class MobileEngineer(
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/></a>
   <img src="https://img.shields.io/badge/REST_APIs-Expert-009688?style=flat" />
-  <img src="https://img.shields.io/badge/GraphQL-Intermediate-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-Advanced-333333?style=flat&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio_Voice_SDK-Advanced-F22F46?style=flat&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-Advanced-010101?style=flat" />
 </p>
 
@@ -198,11 +208,11 @@ data class MobileEngineer(
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
   <img src="https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitrise-Advanced-683D87?style=flat&logo=bitrise&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastlane-Advanced-00F200?style=flat" />
   <img src="https://img.shields.io/badge/Gradle-Expert-02303A?style=flat&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=flat&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-Expert-147EFB?style=flat&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crashlytics_&_Sentry-Advanced-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Charles_Proxy-Advanced-3E4C59?style=flat" />
 </p>
 
@@ -211,14 +221,15 @@ data class MobileEngineer(
   <img src="https://img.shields.io/badge/JUnit-Expert-25A162?style=flat&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Espresso-Advanced-3DDC84?style=flat" />
   <img src="https://img.shields.io/badge/XCTest-Advanced-147EFB?style=flat" />
-  <img src="https://img.shields.io/badge/Mockito-Advanced-C5D9C8?style=flat" />
+  <img src="https://img.shields.io/badge/MockK_&_Mockito-Advanced-C5D9C8?style=flat" />
   <img src="https://img.shields.io/badge/Turbine-Advanced-7F52FF?style=flat" />
-  <img src="https://img.shields.io/badge/UI_Testing-Advanced-4285F4?style=flat" />
+  <img src="https://img.shields.io/badge/TDD-Advanced-4285F4?style=flat" />
 </p>
 
 ### 🎨 Additional Skills
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/></a>
   <img src="https://img.shields.io/badge/Material_Design-Expert-757575?style=flat&logo=material-design&logoColor=white" />
@@ -229,63 +240,64 @@ data class MobileEngineer(
 
 ---
 
-## 🎖️ Experience & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android_Development-9+_Years-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS_Development-5+_Years-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-Expert-00897B?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVI_Pattern-Expert-00796B?style=for-the-badge&logo=buffer&logoColor=white" />
-</p>
-
----
-
-## 📱 Featured Projects & Contributions
+## 📱 Featured Apps — Live on the Stores
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 Current Work
-**Enterprise Mobile Solutions @ [SIROC](https://siroc.com)**
-- Native Android & iOS applications
-- Advanced architecture implementation
-- Performance optimization & scaling
-- Team leadership & code reviews
+### 🧠 MindGuard — *Lead Mobile Engineer*
+Mental-health & habit-building app for Ukrainian veterans: daily physical challenges rewarded with real micro-payments, plus weekly accountability buddies. Kotlin Multiplatform with on-device AI exercise verification.
+
+<a href="https://apps.apple.com/us/app/mindguard-mental-resilience/id6770721628"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.mindguard.bloom"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### 🌟 Notable Projects
-**[EtherMail](https://ethermail.io) - Team Lead**
-- Led mobile development team for innovative Web3 email platform
-- Architected and implemented native Android & iOS applications
-- Integrated blockchain technology with traditional mobile frameworks
-- Delivered seamless UX for crypto-native communication
-- Implemented Clean Architecture & MVI patterns
-- Built custom UI components and complex animations
+### 🔨 Anvil — *Indie Maker*
+Native developer toolkit for Mac, iPhone & iPad — format, inspect, convert, generate, and debug everyday developer data (JSON, JWT, Base64…) fully on-device. Built with SwiftUI + TCA.
+
+<a href="https://apps.apple.com/us/app/anvil-dev-toolset/id6775051027"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+<a href="https://anvilmac.com"><img src="https://img.shields.io/badge/Website-anvilmac.com-4A90E2?style=flat-square&logo=safari&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💡 Contributions
-- Contributing to mobile development community
-- Technical blog articles & tutorials
-- Code reviews & mentorship
-- Architecture pattern demonstrations
+### 🎤 Chorus — *SIROC*
+Fan engagement platform connecting artists with their core fans through exclusive content, live streams, and community features.
+
+<a href="https://apps.apple.com/us/app/chorus-the-future-is-fandom/id6738390040"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### 🎯 Expertise Showcase
-- Clean Architecture Templates (Kotlin & Swift)
-- MVI pattern implementations
-- Jetpack Compose best practices
-- CI/CD pipeline configurations
+### ☎️ Aloware Talk2 — *Aloware*
+Business phone app for sales and support teams. Real-time calls, SMS, and CRM integration using the Twilio Voice SDK and WebRTC.
 
-**Portfolio:** [xela-dev-mobile.com](https://xela-dev-mobile.com)
+<a href="https://apps.apple.com/us/app/aloware-talk-business-phone/id6461865944"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.aloware.talk2"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📧 EtherMail — *Mobile Lead*
+Web3 email platform bridging Web2 and Web3. Wallet-to-wallet communication with full inbox ownership and crypto rewards.
+
+<a href="https://apps.apple.com/us/app/ethermail/id6451305966"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.ethermail.ethermail_android"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+
+</td>
+<td width="50%">
+
+### 🚗 Vlue — *Vlue LLC*
+Miami-based rideshare platform with no surge pricing. Driver and Rider apps with real-time tracking and multiple ride categories.
+
+<a href="https://play.google.com/store/apps/details?id=com.vlue.riderapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -308,17 +320,14 @@ I'm passionate about sharing knowledge and helping the mobile development commun
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexminator1999" target="_blank">
+  <a href="https://www.linkedin.com/in/alexminator1999" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:alexminator.eth@ethermail.io">
+  <a href="mailto:alex@xela-dev-mobile.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://xela-dev-mobile.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://siroc.com" target="_blank">
-    <img src="https://img.shields.io/badge/SIROC-Company-00D9FF?style=for-the-badge&logo=mobile&logoColor=white" alt="SIROC"/>
   </a>
 </p>
 
@@ -334,17 +343,14 @@ I'm passionate about sharing knowledge and helping the mobile development commun
 <summary>📊 More Stats</summary>
 <br>
 
-### Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Technologies I Love
 ```text
-Kotlin          ████████████████████░   95%
-Swift           █████████████████░░░░   85%
-Jetpack Compose ██████████████████░░░   90%
-SwiftUI         ████████████████░░░░░   80%
-Clean Arch      ████████████████████░   95%
+Kotlin               ████████████████████░   95%
+Swift                █████████████████░░░░   85%
+Jetpack Compose      ██████████████████░░░   90%
+SwiftUI              █████████████████░░░░   85%
+Kotlin Multiplatform ████████████████░░░░░   80%
+Clean Arch & MVI     ████████████████████░   95%
 ```
 
 </details>

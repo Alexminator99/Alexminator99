@@ -7,7 +7,7 @@ I'm **Alex Javier Rivas Martínez** — Lead Mobile Engineer at **MindGuard Grou
 ## 🛠️ My own apps
 
 - **[Anvil](https://anvilmac.com)** — Native developer toolkit for Mac, iPhone & iPad: format, inspect, convert, generate and debug everyday developer data (JSON, JWT, Base64…) fully on-device. Built with SwiftUI + TCA. [App Store](https://apps.apple.com/us/app/anvil-dev-toolset/id6775051027)
-- **[MacWrench](https://macwrench.app)** — macOS utility that keeps your Mac tuned: batch app updates, full Homebrew management (pin packages, changelogs, batch updates), and safe cleanup of caches, logs and developer cruft.
+- **[MacWrench](https://macwrench.app)** — All-in-one macOS utility (macOS 14+, Apple Silicon & Intel): one-click or batch app updates via Sparkle, the Mac App Store & the iTunes API; a full Homebrew GUI — browse, install, pin, changelogs and batch upgrades without touching the terminal; and safety-scored system cleanup across 21 categories, with on-device AI recommending what to keep or remove. Free tier + Pro.
 
 ## 💼 Apps I've shipped for companies
 
